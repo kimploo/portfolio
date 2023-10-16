@@ -1,7 +1,3 @@
-# Next.js + Contentlayer
+# 포트폴리오
 
-A template with Next.js 13 app dir, Contentlayer, Tailwind CSS and dark mode.
-
-https://next-contentlayer.vercel.app
-
-
+Inspired by [next-contentlayer](https://github.com/shadcn/next-contentlayer)
